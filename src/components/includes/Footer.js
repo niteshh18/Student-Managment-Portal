@@ -5,9 +5,9 @@ export class Footer extends Component{
         return (
             <footer className="main-footer">
                 <div className="pull-right hidden-xs">
-                    <b>Version</b> 2.4.0
+                    
                 </div>
-                <strong>Copyright &copy; 2014-2017 <a href="#">Student Management System</a>.</strong>
+                <strong>Copyright &copy; 2024 <a href="#">Student Management System</a>.</strong>
                 All rights reserved.
             </footer>
         );
